@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joseph Blessing Adeola 
-- 👀 I’m a Software Engineer (in-view)
-- 🌱 I’m currently learning Javascript
+- 👀 I’m a Data Scientist and Machine Learning Engineeer (in-view)
+- 🌱 Excel, PowerBI,Javascript,Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me aduragbemi17@gmail.com, twitter:@akaani_omo_yewa
 
